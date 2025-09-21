@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.WhatsApp Image 2025-09-21 at 13.44.41_c763df74
+widget: about.abstract
 
 # This file represents a page section.
 headless: true
@@ -9,6 +9,14 @@ headless: true
 weight: 10
 
 author: admin
+# Optional: Add a profile image
+design:
+  background:
+    color: '#090a0b'
+    text_color_light: true
+  # Profile image
+image: "uploads/whatsapp_image_2025-09-21.jpg"
+
 #design:
 #  background:
 #    color: '#090a0b'
