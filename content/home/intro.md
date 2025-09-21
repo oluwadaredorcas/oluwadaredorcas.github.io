@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: about.WhatsApp Image 2025-09-21 at 13.44.41_c763df74
 
 # This file represents a page section.
 headless: true
