@@ -4,7 +4,7 @@ summary: "A dual bioinformatics approach was used to identify and validate cance
 tags:
   - Overview
 date: 2025-08-12
-{{< figure src="/static/uploads/Project1.png" caption="Summary of identified predictive biomarkers of radiosensitivity in HNSCC and their mechanism of action" >}}
+{{< figure src="/static/uploads/Project1.png" caption="Summary of identified predictive biomarkers of radiosensitivity in HNSCC and their mechanism of action" >}} 
 
 {{< figure src="/static/uploads/project2.png" caption="The flow chart shows the steps taken to achieve the project." >}}
 
