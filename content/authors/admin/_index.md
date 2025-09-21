@@ -6,7 +6,7 @@ title: Oluwadare Dorcas
 superuser: true
 # Profile image
 avatar: "uploads/dorcas.jpg"
-hugo server --disableFastRender
+
 
 # Role/position
 role: 'Research/Data Analyst'
