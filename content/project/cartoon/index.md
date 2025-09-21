@@ -6,7 +6,7 @@ tags:
 date: 2025-08-12
 ---
 
-Here are the project results:
+Here are the project results: 
 
 {{< figure src="/uploads/Project1.png" caption="Summary of identified predictive biomarkers of radiosensitivity in HNSCC and their mechanism of action" >}} 
 
