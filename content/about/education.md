@@ -24,16 +24,16 @@ date_format: Jan 2006
 experience:
   - title: MSc Bioinformatics
     company: Teesside University
-    date_start: 'September 2024'
-    date_end: 'September 2025'
+    date_start: '2024-09-01'
+    date_end: '2025-09-01'
     description: |2-
         * Dissertation on In Silico Identification and Validation of Predictive Biomarkers of Radiosensitivity in Head and Neck Cancer 
         
 
   - title: B.Agr Animal Breeding and Genetics
     company: Federal University Of Agriculture Abeokuta
-    date_start: 'April 2018'
-    date_end: 'December 2023'
+    date_start: '2018-04-01'
+    date_end: '2023-12-01'
     description: My dissertation was on Analysis of Growth curve of Four Broiler Chicken Breeds
 
 design:
