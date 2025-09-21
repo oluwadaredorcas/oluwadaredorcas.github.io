@@ -38,7 +38,7 @@ bio: My research interests Bioinformatucs, Statistical Analysis and Research.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "oluwadaredorcas@gmail.com".
+    link: 'mailto:oluwadaredorcas@gmail.com' # For a direct email link, use "oluwadaredorcas@gmail.com".
  
 # Uncomment below for Github link
 - icon: github
