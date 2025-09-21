@@ -9,7 +9,9 @@ headless: true
 weight: 10
 
 author: admin
-# Optional: Add a profile image
+params:
+  images:
+    - "uploads/dorcas.jpg"  # relative to /static/
 design:
   background:
     color: '#090a0b'
