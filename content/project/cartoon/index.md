@@ -5,9 +5,9 @@ tags:
   - CV
 date: 2025-08-12
 images:
-  - src: "img/project1-figure1.png"
+  - src: "uploads/project1.png"
     caption: "Summary of identified predictive biomarkers of radiosensitivity in HNSCC and their mechanism of action"
-  - src: "img/project1-figure2.png"
+  - src: "uploads/project2.png"
     caption: "The flow chart shows the steps taken to achieve the project."
 ---
 
