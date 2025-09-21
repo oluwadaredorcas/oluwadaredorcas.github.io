@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about
+widget: about.dorcas
 
 # This file represents a page section.
 headless: true
@@ -15,7 +15,7 @@ design:
     color: '#090a0b'
     text_color_light: true
   # Profile image
-image: "uploads/whatsapp_image_2025-09-21.jpg"
+image: "dorcas.jpg"
 
 #design:
 #  background:
