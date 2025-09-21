@@ -4,7 +4,8 @@ title: Oluwadare Dorcas
 
 # Is this the primary user of the site?
 superuser: true
-
+# Profile image
+avatar: "WhatsApp Image 2025-09-21 at 13.44.41_c763df74.jpg"
 # Role/position
 role: 'Research/Data Analyst'
 
