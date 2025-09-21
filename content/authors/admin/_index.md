@@ -45,5 +45,5 @@ email: "Oluwadaredorcas@gmail.com"
 
 Dorcas Oluwadare is an MSc graduate of Bioinformatics with a background of Breeding and Genetics. My interests include Genomics, Cancer research, Bioinformatics and Statistical Analysis. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Dorcas-Oluwadare-RA-Resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
