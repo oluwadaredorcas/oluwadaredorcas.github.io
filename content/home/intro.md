@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.abstract
+widget: about
 
 # This file represents a page section.
 headless: true
