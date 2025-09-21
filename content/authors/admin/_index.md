@@ -5,7 +5,7 @@ title: Oluwadare Dorcas
 # Is this the primary user of the site?
 superuser: true
 # Profile image
-avatar: "dorcas.jpg"
+avatar: "assets/media/dorcas.jpg"
 # Role/position
 role: 'Research/Data Analyst'
 
