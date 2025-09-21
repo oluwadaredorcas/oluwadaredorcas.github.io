@@ -15,7 +15,7 @@ design:
     color: '#090a0b'
     text_color_light: true
   # Profile image
-image: "dorcas.jpg"
+image: "uploads/dorcas.jpg"
 
 #design:
 #  background:
