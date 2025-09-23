@@ -1,5 +1,7 @@
 ---
 title: Recommendation Systems
+build:
+  render: never
 summary: Write about your project here...
 tags:
   - ML
