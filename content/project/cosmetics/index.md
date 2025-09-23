@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Predicting through ML models in R
+summary: This project involves predicting values such as price of produce using ML in R
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - ML
+date: 2024-08-01
+external_link: https://github.com/oluwadaredorcas/Machine-learning-using-R
 ---
