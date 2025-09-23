@@ -11,5 +11,6 @@ Here are the project results:
 {{< figure src="/uploads/Project1.png" caption="Summary of identified predictive biomarkers of radiosensitivity in HNSCC and their mechanism of action" >}} 
 
 {{< figure src="/uploads/project2.png" caption="The flow chart shows the steps taken to achieve the project." >}}
+external_link: https://github.com/oluwadaredorcas/In-Silico-Characterization-of-Biomarkers-of-Radiosensitivity-in-Head-and-Neck-Cancer
 
 
